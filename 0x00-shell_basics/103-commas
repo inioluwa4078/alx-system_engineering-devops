@@ -1,2 +1,2 @@
 #!/bin/bash
-ls * -ma/ . ../-X [[:alnum:]]
+ls * -map /sort -d 
