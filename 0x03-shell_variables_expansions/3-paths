@@ -1,1 +1,2 @@
-VimCrypt~03!³‡7Y$Ί•^Δ*3µογY/­oΓ•›•΄*CΗ«Kκ­+ύςJxR‡έd–μFU‰B( /Lο’
+#!/bin/bash
+echo $PATH | tr -s ":" "\n" | wc -l
